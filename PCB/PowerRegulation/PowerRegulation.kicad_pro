@@ -699,7 +699,7 @@
         "uuid": "6f90edef-e162-4a96-93d5-b8fd6bdad97e"
       }
     ],
-    "used_designators": "L1-6,LED1,R1-29,C1-52,FB1,U1-11,SW1-2,TP1-3,TH1,#PWR1-37,#PWR40-82,D1,J2,NT1",
+    "used_designators": "L1-6,LED1,R1-29,C1-53,FB1,U1-11,SW1-2,TP1-9,TH1,#PWR1-37,#PWR40-87,D1,J2-4,NT1",
     "variants": []
   },
   "sheets": [
