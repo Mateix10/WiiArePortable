@@ -15121,7 +15121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 146.05 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -16071,7 +16071,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 162.56 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17025,7 +17025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 281.94 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -19977,7 +19977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 219.71 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -22823,7 +22823,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 297.18 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -24595,7 +24595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 172.72 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -24750,7 +24750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 170.18 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -32765,7 +32765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 153.67 95.25 0)
 			(hide yes)
 			(show_name no)
