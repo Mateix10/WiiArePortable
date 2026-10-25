@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 864 864" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Wii" transform="matrix(1.672988,0,0,1.672988,-1048.950497,-167.102578)">
+        <path d="M857,494L889,130L1035,299L1026,506L857,494" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M835,497L872,105L1040,298L1030,510L835,497L750,498L740,500L727,606L841,613L850.499,498.033" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M842,613L1036,587L1040,511L851,499L842,613" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M872,105L793,121L787,133C787,133 743.736,495.029 744,497C744.264,498.971 835,498 835,498L872,105" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M793,120L790,148" style="fill:none;stroke:black;stroke-width:2.09px;"/>
+        <path d="M789,163L787,181" style="fill:none;stroke:black;stroke-width:2.09px;"/>
+        <path d="M785,194L782,225" style="fill:none;stroke:black;stroke-width:2.09px;"/>
+        <path d="M764,376L757,444" style="fill:none;stroke:black;stroke-width:2.09px;"/>
+        <path d="M757,444L757,445" style="fill:none;stroke:black;stroke-width:2.09px;"/>
+        <path d="M764,375L788,374L805,223L782,225L777,231L760,377L764,375" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M794.824,313.388C794.824,313.388 793.309,313.333 793,313C792.691,312.667 796,281 796,281L799,277L794.824,313.388Z" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M755,460L750,497" style="fill:none;stroke:black;stroke-width:2.09px;"/>
+        <path d="M751,462L755,460L778,460L780,445L756,445C756,445 752.955,445.557 753,447C753.045,448.443 751,462 751,462" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M781,198L785,193L807,190L808,179L786,181L783,189L782,190L781,198" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M786,167L789,162L810,159L811,145L790,149L786,156L786,167" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M803,454C806.053,468.106 818.954,463.554 820,454C821.046,444.446 851.364,148.356 851,143C850.636,137.644 834.615,137.341 834,146C833.385,154.659 799.947,439.894 803,454Z" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M810,456C810,456 838.206,156.898 840,149C841.794,141.102 850.485,142.133 851,148C851.515,153.867 820,456 820,456C820,456 812.426,464.268 810,456" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+        <path d="M740,500L733,501L721,603L727,606L740,500" style="fill:white;fill-opacity:0;stroke:black;stroke-width:2.09px;"/>
+    </g>
+    <g transform="matrix(31.040206,0,0,31.040206,-9055.078992,-10419.988338)">
+        <g transform="matrix(12,0,0,12,319.226366,355.139277)">
+        </g>
+        <text x="292.934px" y="355.139px" style="font-family:'BradleyHandITCTT-Bold', 'Bradley Hand';font-weight:700;font-size:12px;">PMS</text>
+    </g>
+</svg>
