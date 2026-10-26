@@ -69,13 +69,7 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -209,13 +203,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.25,
-        0.75,
-        1.5,
-        2.0
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -242,20 +230,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        },
-        {
-          "diameter": 0.6,
-          "drill": 0.3
-        },
-        {
-          "diameter": 0.8,
-          "drill": 0.4
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -491,7 +466,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -724,7 +699,7 @@
         "uuid": "6f90edef-e162-4a96-93d5-b8fd6bdad97e"
       }
     ],
-    "used_designators": "L1-7,LED1,H1-4,R1-32,C1-64,FB1,U1-12,SW1-2,TP1-11,TH1,Q1,D1,#PWR1-37,#PWR40-113,J1-5,NT1",
+    "used_designators": "U1-11,TP1-3,C1-37,#PWR1-37,R1-17,L1-5,SW1-2",
     "variants": []
   },
   "sheets": [
