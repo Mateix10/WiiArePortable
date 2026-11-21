@@ -855,7 +855,7 @@
       "netlist": "",
       "plot": "/Users/matei/Downloads/Gerber/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../3d/PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -1028,7 +1028,7 @@
         "uuid": "6f90edef-e162-4a96-93d5-b8fd6bdad97e"
       }
     ],
-    "used_designators": "SW1-2,L1-5,C1-37,#PWR1-37,R1-17,TP1-3,U1-11",
+    "used_designators": "SW1-2,L1-5,C1-37,#PWR1-37,R1-17,TP1-3,TP24,U1-11",
     "variants": []
   },
   "sheets": [

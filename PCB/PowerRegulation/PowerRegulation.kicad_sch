@@ -9044,10 +9044,6 @@
 		(at 77.47 209.55)
 		(uuid "e2e21578-5468-4917-88c1-ae50c422bbec")
 	)
-	(no_connect
-		(at 41.91 257.81)
-		(uuid "e93a0f0d-f4bd-4e34-90cd-59ce4389a4e3")
-	)
 	(wire
 		(pts
 			(xy 30.48 234.95) (xy 41.91 234.95)
@@ -21484,6 +21480,84 @@
 			(project "PowerRegulation"
 				(path "/6f90edef-e162-4a96-93d5-b8fd6bdad97e"
 					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 41.91 257.81 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "599ddf89-7811-4a65-8e3e-164026f9d28c")
+		(property "Reference" "TP24"
+			(at 38.608 260.096 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "U10"
+			(at 38.1 256.032 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 41.91 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 41.91 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3e4f79c-0cdc-4f70-a464-779ae42cd569")
+		)
+		(instances
+			(project "PowerRegulation"
+				(path "/6f90edef-e162-4a96-93d5-b8fd6bdad97e"
+					(reference "TP24")
 					(unit 1)
 				)
 			)
