@@ -21507,7 +21507,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "U10"
+		(property "Value" "U10_EMU"
 			(at 38.1 256.032 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36029,10 +36029,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "faaae7b7-9db4-4930-91f3-4b45bf96e37c")
 		(property "Reference" "NT1"
-			(at 377.19 68.5799 90)
+			(at 377.19 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
